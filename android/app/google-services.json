@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348608281046",
+    "project_id": "ungshopping-6052e",
+    "storage_bucket": "ungshopping-6052e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348608281046:android:49d5b7d4e292a111f00c77",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348608281046-8h9e93ofacikpsvb086h5vtklkgs4o33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgg2du2YBgTkzzCbRdse_pScyb9GBi8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348608281046-8h9e93ofacikpsvb086h5vtklkgs4o33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
